@@ -1,0 +1,63 @@
+body{
+    font-family: 'Heebo', sans-serif;
+}
+.white-text{
+    background-image: url(./Path\ 15.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 10% 3% 20% 3%;
+    
+}
+input{
+    background-color: #F6F6F6;
+    border-bottom: 3px  solid #1b07cf; 
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    width: 70vw; 
+    
+}
+
+label{
+    color:#2C2C2C;
+    font-weight: bold;
+    font-size: 0.8rem;
+    max-width: 418px;
+    width: 100%;
+
+}
+
+.form-container{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+
+.btn{
+    background-color:#0F5380;
+    color: white;
+    margin-top: 25px;
+    margin-right: 25px;
+    width: 166px;
+    height: 50px;
+}
+
+.form-inline label{
+    display: flex;
+    justify-content: start;
+
+}
+
+.head-text{
+    margin-bottom: 250px;
+
+}
+
